@@ -1,1 +1,1 @@
-server_name = "default-server"
+server_name = "production-server"
